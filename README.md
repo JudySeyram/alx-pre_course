@@ -3,5 +3,5 @@
 
 - 🥇 This repo is my first work as a ALX Software Engineering Student
 - 🦋 I do not give up
-- 📶 I do hard things everyday
+- 🐝: I do hard things everyday
 - 🍯 And the end result is greatness
